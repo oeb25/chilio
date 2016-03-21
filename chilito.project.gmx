@@ -11,6 +11,12 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\cool_scirpt.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\player</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>

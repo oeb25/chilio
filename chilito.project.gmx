@@ -12,6 +12,10 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
+    <script>scripts\scr_inventory.gml</script>
+    <scripts name="inv">
+      <script>scripts\inv_get_gold.gml</script>
+    </scripts>
   </scripts>
   <objects name="objects">
     <object>objects\player</object>

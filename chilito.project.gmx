@@ -19,6 +19,7 @@
   </scripts>
   <objects name="objects">
     <object>objects\player</object>
+    <object>objects\obj_floor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
